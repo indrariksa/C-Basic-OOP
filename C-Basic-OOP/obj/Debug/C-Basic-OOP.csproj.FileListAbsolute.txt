@@ -1,0 +1,7 @@
+F:\Github\CSharp\C-Basic-OOP\C-Basic-OOP\bin\Debug\C-Basic-OOP.exe.config
+F:\Github\CSharp\C-Basic-OOP\C-Basic-OOP\bin\Debug\C-Basic-OOP.exe
+F:\Github\CSharp\C-Basic-OOP\C-Basic-OOP\bin\Debug\C-Basic-OOP.pdb
+F:\Github\CSharp\C-Basic-OOP\C-Basic-OOP\obj\Debug\C-Basic-OOP.csproj.AssemblyReference.cache
+F:\Github\CSharp\C-Basic-OOP\C-Basic-OOP\obj\Debug\C-Basic-OOP.csproj.CoreCompileInputs.cache
+F:\Github\CSharp\C-Basic-OOP\C-Basic-OOP\obj\Debug\C-Basic-OOP.exe
+F:\Github\CSharp\C-Basic-OOP\C-Basic-OOP\obj\Debug\C-Basic-OOP.pdb
